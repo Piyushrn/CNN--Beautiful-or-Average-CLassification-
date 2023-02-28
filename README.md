@@ -1,5 +1,7 @@
 # CNN--Beautiful-or-Average-CLassification-
 
+Datset - https://www.kaggle.com/datasets/gpiosenka/beauty-detection-data-set
+
 
 The data set consists of a training set, a test set, a validation set and a consolidated set. Each of these sets contains two folders labeled as Beautiful and Average.
 For the training set there are 2000 images in the Beautiful folder and 2000 images in the Average folder. For the test set there are 150 images in the beautiful folder 
