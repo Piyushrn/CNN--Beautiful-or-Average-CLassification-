@@ -1,6 +1,6 @@
 # CNN--Beautiful-or-Average-CLassification-
 
-Datset - https://www.kaggle.com/datasets/gpiosenka/beauty-detection-data-set
+Dataset - https://www.kaggle.com/datasets/gpiosenka/beauty-detection-data-set
 
 
 The data set consists of a training set, a test set, a validation set and a consolidated set. Each of these sets contains two folders labeled as Beautiful and Average.
@@ -12,4 +12,4 @@ users that want to create their own splits of training, test and validation imag
 
 
 From my Observation, the images in the average folders have images with low pixels, clarity is not very good. Hence the model predicts average image if the image is
-having low pixels.
+having low pixels even if it is a beautiful image and vice versa.
